@@ -27,6 +27,7 @@ overview of the figma file
 ![iPhone 14   15 Pro Max - 17](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/5cf852ba-d575-4c50-8628-c9db2f0351c3)
 ![navigation](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/43dab9ac-0dc9-4afd-9e36-3eb4c7d8c710)
 ![iPhone 14   15 Pro Max - 21](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/cc0ac1f6-d289-4700-a6ce-786b0128d8ef)
+
 *More images and interface details can be found within the app's Figma design files.*
 
 ## Additional Resources
