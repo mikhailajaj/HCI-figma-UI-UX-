@@ -31,6 +31,7 @@ overview of the figma file
 *More images and interface details can be found within the app's Figma design files.*
 
 ## Additional Resources
-- [YouTube Video Overview](https://drive.google.com/file/d/1Xr0_SmI81BHDy2WJQIfND7kAuJIEsgQR/view?usp=sharing)
+- [YouTube Video Overview](https://drive.google.com/file/d/1BwZ7s-76oolneqzGNvOqrirTEcYJAlch/view)
+  
 - [Figma File - Assignment 2](https://www.figma.com/file/IQB2ul7bawOekLgNcuzS3A/Assignment_1-Sheridan-Courses-App?type=design&node-id=71%3A395&mode=design&t=XB6BQEWd7jBZzqfH-1)
 - [Figma File - Assignment 1](https://www.figma.com/file/IQB2ul7bawOekLgNcuzS3A/Assignment_1-Sheridan-Courses-App?type=design&node-id=0%3A1&mode=design&t=XB6BQEWd7jBZzqfH-1)
