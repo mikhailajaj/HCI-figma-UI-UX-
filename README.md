@@ -25,7 +25,6 @@ overview of the figma file
 ![Sheridan College App Screenshot](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/f8a6f501-d62a-4385-96f6-b664c4982942)
 ![iPhone 14   15 Pro Max - 20](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/5cda8595-422c-4874-8d94-4e109652bd8c)
 ![iPhone 14   15 Pro Max - 17](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/5cf852ba-d575-4c50-8628-c9db2f0351c3)
-![navigation](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/43dab9ac-0dc9-4afd-9e36-3eb4c7d8c710)
 ![iPhone 14   15 Pro Max - 21](https://github.com/mikhailajaj/HCI-figma-UI-UX-/assets/38083764/cc0ac1f6-d289-4700-a6ce-786b0128d8ef)
 
 *More images and interface details can be found within the app's Figma design files.*
