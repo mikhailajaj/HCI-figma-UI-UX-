@@ -31,6 +31,6 @@ overview of the figma file
 
 ## Additional Resources
 - [YouTube Video Overview](https://drive.google.com/file/d/1BwZ7s-76oolneqzGNvOqrirTEcYJAlch/view)
-  
+- [Figma File - Assignment 3](https://www.figma.com/file/IQB2ul7bawOekLgNcuzS3A/Assignments-Sheridan-Courses-App?type=design&node-id=117%3A1088&mode=design&t=6zNUg2dfVAsRfBNU-1)
 - [Figma File - Assignment 2](https://www.figma.com/file/IQB2ul7bawOekLgNcuzS3A/Assignment_1-Sheridan-Courses-App?type=design&node-id=71%3A395&mode=design&t=XB6BQEWd7jBZzqfH-1)
 - [Figma File - Assignment 1](https://www.figma.com/file/IQB2ul7bawOekLgNcuzS3A/Assignment_1-Sheridan-Courses-App?type=design&node-id=0%3A1&mode=design&t=XB6BQEWd7jBZzqfH-1)
